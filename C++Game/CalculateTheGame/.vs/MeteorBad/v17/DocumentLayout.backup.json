@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{19C10B8F-FD23-4504-B9DA-47ADCA9DFDAF}|AppleCatchingGame\\AppleCatchingGame.vcxproj|solutionrelative:AppleCatchingGame\\MeteorBadMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19C10B8F-FD23-4504-B9DA-47ADCA9DFDAF}|AppleCatchingGame\\AppleCatchingGame.vcxproj|E:\\School 2024 - 2025\\SFML_Project_BadMeteor\\BadMeteors\\C\u002B\u002BGame\\CalculateTheGame\\AppleCatchingGame\\score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{19C10B8F-FD23-4504-B9DA-47ADCA9DFDAF}|AppleCatchingGame\\AppleCatchingGame.vcxproj|solutionrelative:AppleCatchingGame\\score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{19C10B8F-FD23-4504-B9DA-47ADCA9DFDAF}|AppleCatchingGame\\AppleCatchingGame.vcxproj|E:\\School 2024 - 2025\\SFML_Project_BadMeteor\\BadMeteors\\C\u002B\u002BGame\\CalculateTheGame\\AppleCatchingGame\\UIHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{19C10B8F-FD23-4504-B9DA-47ADCA9DFDAF}|AppleCatchingGame\\AppleCatchingGame.vcxproj|solutionrelative:AppleCatchingGame\\UIHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C10B8F-FD23-4504-B9DA-47ADCA9DFDAF}|AppleCatchingGame\\AppleCatchingGame.vcxproj|E:\\School 2024 - 2025\\SFML_Project_BadMeteor\\BadMeteors\\C\u002B\u002BGame\\CalculateTheGame\\AppleCatchingGame\\score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19C10B8F-FD23-4504-B9DA-47ADCA9DFDAF}|AppleCatchingGame\\AppleCatchingGame.vcxproj|solutionrelative:AppleCatchingGame\\score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19C10B8F-FD23-4504-B9DA-47ADCA9DFDAF}|AppleCatchingGame\\AppleCatchingGame.vcxproj|E:\\School 2024 - 2025\\SFML_Project_BadMeteor\\BadMeteors\\C\u002B\u002BGame\\CalculateTheGame\\AppleCatchingGame\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -64,14 +64,14 @@
               "RelativeDocumentMoniker": "AppleCatchingGame\\MeteorBadMain.cpp",
               "ToolTip": "E:\\School 2024 - 2025\\SFML_Project_BadMeteor\\BadMeteors\\C\u002B\u002BGame\\CalculateTheGame\\AppleCatchingGame\\MeteorBadMain.cpp",
               "RelativeToolTip": "AppleCatchingGame\\MeteorBadMain.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAHIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-21T23:08:41.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "score.h",
               "DocumentMoniker": "E:\\School 2024 - 2025\\SFML_Project_BadMeteor\\BadMeteors\\C\u002B\u002BGame\\CalculateTheGame\\AppleCatchingGame\\score.h",
               "RelativeDocumentMoniker": "AppleCatchingGame\\score.h",
@@ -149,13 +149,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UIHandler.cpp",
               "DocumentMoniker": "E:\\School 2024 - 2025\\SFML_Project_BadMeteor\\BadMeteors\\C\u002B\u002BGame\\CalculateTheGame\\AppleCatchingGame\\UIHandler.cpp",
               "RelativeDocumentMoniker": "AppleCatchingGame\\UIHandler.cpp",
               "ToolTip": "E:\\School 2024 - 2025\\SFML_Project_BadMeteor\\BadMeteors\\C\u002B\u002BGame\\CalculateTheGame\\AppleCatchingGame\\UIHandler.cpp",
               "RelativeToolTip": "AppleCatchingGame\\UIHandler.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-21T23:08:43.178Z",
               "EditorCaption": ""
